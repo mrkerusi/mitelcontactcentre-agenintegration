@@ -1,0 +1,5 @@
+C:\Users\brightson\documents\visual studio 2012\Projects\AgentIntegrationTest\AgentIntegrationTest\obj\Debug\AgentIntegrationTest.TestBoard.resources
+C:\Users\brightson\documents\visual studio 2012\Projects\AgentIntegrationTest\AgentIntegrationTest\obj\Debug\AgentIntegrationTest.Properties.Resources.resources
+C:\Users\brightson\documents\visual studio 2012\Projects\AgentIntegrationTest\AgentIntegrationTest\obj\Debug\AgentIntegrationTest.csproj.GenerateResource.Cache
+C:\Users\brightson\documents\visual studio 2012\Projects\AgentIntegrationTest\AgentIntegrationTest\bin\Debug\AgentIntegrationTest.exe.config
+C:\Users\brightson\documents\visual studio 2012\Projects\AgentIntegrationTest\AgentIntegrationTest\obj\Debug\AgentIntegrationTest.csprojResolveAssemblyReference.cache
